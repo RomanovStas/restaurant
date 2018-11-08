@@ -166,17 +166,13 @@ p {
 	padding-bottom: 10px;
 }
 
-.special-bg {
+.special {
 	background: url('../img/third-bg.jpg') no-repeat center top;
-	padding-top: 100px;
-}
-
-.special-content {
-
+	padding-top: 80px;
 }
 
 .special__title {
-	margin: 0 auto;
+	text-align: center;
 	color: #fff;
 	padding-bottom: 20px;
 }
@@ -188,18 +184,18 @@ p {
 }
 
 .special-dish img {
-	padding-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 .special-dish h3{
 	font-size: 26px;
-	padding-bottom: 20px;
+	margin-bottom: 20px;
 }
 
 .special-dish > p{
 	font-size: 14px;
 	padding-bottom: 35px;
-	margin: 0 50px;
+	padding: 0 50px;
 }
 
 .home-dilivary {
@@ -218,11 +214,11 @@ p {
 }
 .home-dilivary .dilivary {
 	border-right: 1px solid #e1e1e1;
-	padding-right: 20px;
+	width: 100px;
 }
+
 .home-dilivary .in-home {
 	color: #fe4c8d;
-	margin-top: -10px;
 	display: block;
 }
 
